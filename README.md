@@ -1,4 +1,4 @@
-# bikesharing
+# CitiBike Bikesharing Analysis
 
 [Link to Dashboard](https://public.tableau.com/app/profile/ian.zukowski/viz/Citibike_Analysis_16599734364970/CitiBikeAnalysis?publish=yes)
 
@@ -14,26 +14,26 @@ The company Citibike requires analysis of their provided services in New York Ci
 
 <!-- Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image. -->
 ## Data Visualizations
-[ian-zukowski](Resources/Readme_Images/story1.png)
+![ian-zukowski](Resources/Readme_Images/story1.png)
 * The most common time frames for bike use on weekdays are during the morning+afternoon commute. 
 * The most common time frames for weekend bike use is between 9am-8pm
 ---
-[ian-zukowski](Resources/Readme_Images/story2.png)
+![ian-zukowski](Resources/Readme_Images/story2.png)
 * The line chart shows the average checkout length is centered around 5 minutes for all users.
 ---
-[ian-zukowski](Resources/Readme_Images/story3.png)
+![ian-zukowski](Resources/Readme_Images/story3.png)
 * The line chart shows the total amount of time a bike was checked out for, grouped by gender. The average time regardless of gender still appears to be ~5 minutes. 
 * It is also important to note that male users comprise a significant portion of the customer base.
 ---
-[ian-zukowski](Resources/Readme_Images/story4.png)
+![ian-zukowski](Resources/Readme_Images/story4.png)
 * For known genders the most common timeframe for bike usage is during morning+afternoon commutes on weekdays.
 * However when filtering to only "UNKNOWN" gender the most common usage is during the weekend between the hours of 9am-8pm.
 ---
-[ian-zukowski](Resources/Readme_Images/story6.png)
+![ian-zukowski](Resources/Readme_Images/story6.png)
 * The most popular days are Thursday and Friday which are majority Subscribers.
 * Wednesday and Sunday are the least popular days. Sunday especially sees significantly lower usage from subscribers.
 ---
-[ian-zukowski](Resources/Readme_Images/story5.png)
+![ian-zukowski](Resources/Readme_Images/story5.png)
 * The majority of users are subscribers who tend to use CitiBike services more on weekdays.
 * However when filtering the heatmap to only show the 19% of customers who do not  have subscriptions, the vast majority of usage is on the weekend.
 ---
